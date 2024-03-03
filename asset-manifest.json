@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18d4a358.css",
+    "main.js": "/static/js/main.0cef2644.js",
+    "static/media/kmovies.png": "/static/media/kmovies.cd0b779b0f9ddf0c069a.png",
+    "static/media/rhyme4u.png": "/static/media/rhyme4u.f73403d9c9338645a5a3.png",
+    "static/media/backgroundVideo.mp4": "/static/media/backgroundVideo.8ba8485cf94f6a06d283.mp4",
+    "static/media/crypto.png": "/static/media/crypto.e316509a1540cc4265f6.png",
+    "static/media/authapp.png": "/static/media/authapp.f1d68379fb55f32beb30.png",
+    "static/media/kanban.png": "/static/media/kanban.c1fab00351250d7720ed.png",
+    "static/media/Kyaw-Zin-Htet-Resume.pdf": "/static/media/Kyaw-Zin-Htet-Resume.dffcac1cb9bc17dbbd8f.pdf",
+    "static/media/kaushan-script-all-400-normal.woff": "/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "static/media/dithered-image.png": "/static/media/dithered-image.9def50a90c8e38cb75bc.png",
+    "index.html": "/index.html",
+    "main.18d4a358.css.map": "/static/css/main.18d4a358.css.map",
+    "main.0cef2644.js.map": "/static/js/main.0cef2644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d4a358.css",
+    "static/js/main.0cef2644.js"
+  ]
+}
